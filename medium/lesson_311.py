@@ -1,4 +1,4 @@
-def task1():
+def task311():
     """
     Задача: 311. Sparse Matrix Multiplication
     Даны две разреженные матрицы mat1 размером m x k и mat2 размером k x n.
