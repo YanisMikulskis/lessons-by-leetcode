@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="957523af-c975-486c-aee1-49c7b78163c1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/lesson_1200.py" beforeDir="false" afterPath="$PROJECT_DIR$/easy/lesson_1200.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/lesson_190.py" beforeDir="false" afterPath="$PROJECT_DIR$/easy/lesson_190.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/medium/lesson_2906.py" beforeDir="false" afterPath="$PROJECT_DIR$/medium/lesson_2906.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,108 +34,118 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.lesson_1009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_112.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_1200.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_1266.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_1287.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_1390.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_1415.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_1458.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_1758.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_1784.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_1877.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_217.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_2483.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_2976.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_3010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_3074.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_3314.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_3379.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_3507.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_3637.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_3713.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_496.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_637.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_66.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_712.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_744.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_756.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_832.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_860.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_883.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_922.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_955.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/yanis_mac/Desktop/GitReps/lessons-by-leetcode&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.lesson_1009.executor": "Run",
+    "Python.lesson_112.executor": "Run",
+    "Python.lesson_1189.executor": "Run",
+    "Python.lesson_1200.executor": "Run",
+    "Python.lesson_1232.executor": "Run",
+    "Python.lesson_1260.executor": "Run",
+    "Python.lesson_1266.executor": "Run",
+    "Python.lesson_1287.executor": "Run",
+    "Python.lesson_1291.executor": "Run",
+    "Python.lesson_1390.executor": "Run",
+    "Python.lesson_1408.executor": "Run",
+    "Python.lesson_1415.executor": "Run",
+    "Python.lesson_1458.executor": "Run",
+    "Python.lesson_1464.executor": "Run",
+    "Python.lesson_1665.executor": "Run",
+    "Python.lesson_1758.executor": "Run",
+    "Python.lesson_1784.executor": "Run",
+    "Python.lesson_1827.executor": "Run",
+    "Python.lesson_1855.executor": "Run",
+    "Python.lesson_1877.executor": "Run",
+    "Python.lesson_1967.executor": "Run",
+    "Python.lesson_1979.executor": "Run",
+    "Python.lesson_205.executor": "Run",
+    "Python.lesson_2091.executor": "Run",
+    "Python.lesson_217.executor": "Run",
+    "Python.lesson_2483.executor": "Run",
+    "Python.lesson_2515.executor": "Run",
+    "Python.lesson_2553.executor": "Run",
+    "Python.lesson_2751.executor": "Run",
+    "Python.lesson_2812.executor": "Run",
+    "Python.lesson_283.executor": "Run",
+    "Python.lesson_2833.executor": "Run",
+    "Python.lesson_2839.executor": "Run",
+    "Python.lesson_290.executor": "Run",
+    "Python.lesson_2904.executor": "Run",
+    "Python.lesson_2906.executor": "Run",
+    "Python.lesson_2958.executor": "Run",
+    "Python.lesson_2976.executor": "Run",
+    "Python.lesson_3010.executor": "Run",
+    "Python.lesson_3069.executor": "Run",
+    "Python.lesson_3074.executor": "Run",
+    "Python.lesson_3090.executor": "Run",
+    "Python.lesson_3116.executor": "Run",
+    "Python.lesson_3314.executor": "Run",
+    "Python.lesson_3345.executor": "Run",
+    "Python.lesson_3379.executor": "Run",
+    "Python.lesson_3471.executor": "Run",
+    "Python.lesson_3507.executor": "Run",
+    "Python.lesson_3517.executor": "Run",
+    "Python.lesson_3518.executor": "Run",
+    "Python.lesson_3536.executor": "Run",
+    "Python.lesson_3622.executor": "Run",
+    "Python.lesson_3637.executor": "Run",
+    "Python.lesson_3653.executor": "Run",
+    "Python.lesson_3658.executor": "Run",
+    "Python.lesson_3689.executor": "Run",
+    "Python.lesson_3702.executor": "Run",
+    "Python.lesson_3713.executor": "Run",
+    "Python.lesson_3718.executor": "Run",
+    "Python.lesson_3731.executor": "Run",
+    "Python.lesson_3740.executor": "Run",
+    "Python.lesson_3756.executor": "Run",
+    "Python.lesson_3875.executor": "Run",
+    "Python.lesson_3903.executor": "Run",
+    "Python.lesson_392.executor": "Run",
+    "Python.lesson_415.executor": "Run",
+    "Python.lesson_434.executor": "Run",
+    "Python.lesson_48.executor": "Run",
+    "Python.lesson_496.executor": "Run",
+    "Python.lesson_504.executor": "Run",
+    "Python.lesson_58.executor": "Run",
+    "Python.lesson_628.executor": "Run",
+    "Python.lesson_637.executor": "Run",
+    "Python.lesson_66.executor": "Run",
+    "Python.lesson_674.executor": "Run",
+    "Python.lesson_712.executor": "Run",
+    "Python.lesson_724.executor": "Run",
+    "Python.lesson_744.executor": "Run",
+    "Python.lesson_756.executor": "Run",
+    "Python.lesson_766.executor": "Run",
+    "Python.lesson_832.executor": "Run",
+    "Python.lesson_859.executor": "Run",
+    "Python.lesson_860.executor": "Run",
+    "Python.lesson_883.executor": "Run",
+    "Python.lesson_9.executor": "Run",
+    "Python.lesson_914.executor": "Run",
+    "Python.lesson_917.executor": "Run",
+    "Python.lesson_922.executor": "Run",
+    "Python.lesson_955.executor": "Run",
+    "Python.lesson_999.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.дуыыщт_3783.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/yanis_mac/Desktop/GitReps/lessons-by-leetcode",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Python.lesson_112">
-    <configuration name="lesson_1009" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="lessons-by-leetcode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/lesson_1009.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lesson_112" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="lessons-by-leetcode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/lesson_112.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lesson_1415" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.lesson_3903">
+    <configuration name="lesson_2091" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lessons-by-leetcode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,7 +160,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/medium/lesson_1415.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/medium/lesson_2091.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +169,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson_1784" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson_2904" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lessons-by-leetcode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/medium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/medium/lesson_2904.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson_3718" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lessons-by-leetcode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,7 +208,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/lesson_1784.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/lesson_3718.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +217,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lesson_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lesson_3875" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="lessons-by-leetcode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -199,7 +232,31 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/lesson_9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/lesson_3875.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson_3903" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="lessons-by-leetcode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/lesson_3903.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,11 +267,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lesson_112" />
-        <item itemvalue="Python.lesson_9" />
-        <item itemvalue="Python.lesson_1415" />
-        <item itemvalue="Python.lesson_1009" />
-        <item itemvalue="Python.lesson_1784" />
+        <item itemvalue="Python.lesson_3903" />
+        <item itemvalue="Python.lesson_3875" />
+        <item itemvalue="Python.lesson_2091" />
+        <item itemvalue="Python.lesson_2904" />
+        <item itemvalue="Python.lesson_3718" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +301,11 @@
       <workItem from="1771105226195" duration="2387000" />
       <workItem from="1772571108196" duration="53441000" />
       <workItem from="1774300331499" duration="11000" />
-      <workItem from="1774548657203" duration="377000" />
+      <workItem from="1774548657203" duration="39807000" />
+      <workItem from="1775863394263" duration="50329000" />
+      <workItem from="1777834824347" duration="46000" />
+      <workItem from="1777841968823" duration="44993000" />
+      <workItem from="1779460052960" duration="213283000" />
     </task>
     <servers />
   </component>
@@ -263,39 +324,97 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_112.coverage" NAME="lesson_112 Coverage Results" MODIFIED="1774209812772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_1415.coverage" NAME="lesson_1415 Coverage Results" MODIFIED="1773958169775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
-    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_9.coverage" NAME="lesson_9 Coverage Results" MODIFIED="1774109834764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_1390.coverage" NAME="lesson_1390 Coverage Results" MODIFIED="1767653242362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_2839.coverage" NAME="lesson_2839 Coverage Results" MODIFIED="1774821454868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_628.coverage" NAME="lesson_628 Coverage Results" MODIFIED="1785102541073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_392.coverage" NAME="lesson_392 Coverage Results" MODIFIED="1781122541496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_1260.coverage" NAME="lesson_1260 Coverage Results" MODIFIED="1784836422984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_2833.coverage" NAME="lesson_2833 Coverage Results" MODIFIED="1777069887289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_1266.coverage" NAME="lesson_1266 Coverage Results" MODIFIED="1768241620936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_496.coverage" NAME="lesson_496 Coverage Results" MODIFIED="1767820351054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3637.coverage" NAME="lesson_3637 Coverage Results" MODIFIED="1770234528486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3314.coverage" NAME="lesson_3314 Coverage Results" MODIFIED="1769027785207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_674.coverage" NAME="lesson_674 Coverage Results" MODIFIED="1786477016156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3536.coverage" NAME="lesson_3536 Coverage Results" MODIFIED="1785102232550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3471.coverage" NAME="lesson_3471 Coverage Results" MODIFIED="1787083572788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_922.coverage" NAME="lesson_922 Coverage Results" MODIFIED="1768739652991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_637.coverage" NAME="lesson_637 Coverage Results" MODIFIED="1768940135605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_1458.coverage" NAME="lesson_1458 Coverage Results" MODIFIED="1767910107591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3689.coverage" NAME="lesson_3689 Coverage Results" MODIFIED="1781561042470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_2812.coverage" NAME="lesson_2812 Coverage Results" MODIFIED="1782945338463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_2958.coverage" NAME="lesson_2958 Coverage Results" MODIFIED="1786917044099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
     <SUITE FILE_PATH="coverage/lessons_by_leetcode$test.coverage" NAME="test Coverage Results" MODIFIED="1767559390462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
-    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_832.coverage" NAME="lesson_832 Coverage Results" MODIFIED="1766863408677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_2091.coverage" NAME="lesson_2091 Coverage Results" MODIFIED="1788205638386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3622.coverage" NAME="lesson_3622 Coverage Results" MODIFIED="1787686591531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_58.coverage" NAME="lesson_58 Coverage Results" MODIFIED="1779664365822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3903.coverage" NAME="lesson_3903 Coverage Results" MODIFIED="1788557820214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_1784.coverage" NAME="lesson_1784 Coverage Results" MODIFIED="1772923313771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_766.coverage" NAME="lesson_766 Coverage Results" MODIFIED="1779221283004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_2515.coverage" NAME="lesson_2515 Coverage Results" MODIFIED="1776293383011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_1967.coverage" NAME="lesson_1967 Coverage Results" MODIFIED="1782752466576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_1665.coverage" NAME="lesson_1665 Coverage Results" MODIFIED="1779488642195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_1855.coverage" NAME="lesson_1855 Coverage Results" MODIFIED="1776987172863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3702.coverage" NAME="lesson_3702 Coverage Results" MODIFIED="1786898916318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_2906.coverage" NAME="lesson_2906 Coverage Results" MODIFIED="1774779611749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_1979.coverage" NAME="lesson_1979 Coverage Results" MODIFIED="1784417569590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_860.coverage" NAME="lesson_860 Coverage Results" MODIFIED="1768339423225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_290.coverage" NAME="lesson_290 Coverage Results" MODIFIED="1782945065066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_2976.coverage" NAME="lesson_2976 Coverage Results" MODIFIED="1769721686774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3518.coverage" NAME="lesson_3518 Coverage Results" MODIFIED="1786284764875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard" />
     <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_883.coverage" NAME="lesson_883 Coverage Results" MODIFIED="1767907828658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3875.coverage" NAME="lesson_3875 Coverage Results" MODIFIED="1788378998192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3069.coverage" NAME="lesson_3069 Coverage Results" MODIFIED="1787342629471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_1200.coverage" NAME="lesson_1200 Coverage Results" MODIFIED="1769632937918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_66.coverage" NAME="lesson_66 Coverage Results" MODIFIED="1767299041579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3713.coverage" NAME="lesson_3713 Coverage Results" MODIFIED="1771174453822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_434.coverage" NAME="lesson_434 Coverage Results" MODIFIED="1780846381515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_2904.coverage" NAME="lesson_2904 Coverage Results" MODIFIED="1787949711472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_2751.coverage" NAME="lesson_2751 Coverage Results" MODIFIED="1775419660770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard" />
     <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_712.coverage" NAME="lesson_712 Coverage Results" MODIFIED="1768084224935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
-    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_744.coverage" NAME="lesson_744 Coverage Results" MODIFIED="1769969615891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3507.coverage" NAME="lesson_3507 Coverage Results" MODIFIED="1769207700418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_1758.coverage" NAME="lesson_1758 Coverage Results" MODIFIED="1772923295485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3074.coverage" NAME="lesson_3074 Coverage Results" MODIFIED="1766685250245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_1877.coverage" NAME="lesson_1877 Coverage Results" MODIFIED="1769258748126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
-    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_217.coverage" NAME="lesson_217 Coverage Results" MODIFIED="1769807409391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$_3783.coverage" NAME="дуыыщт_3783 Coverage Results" MODIFIED="1776726538864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3010.coverage" NAME="lesson_3010 Coverage Results" MODIFIED="1769975674704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_756.coverage" NAME="lesson_756 Coverage Results" MODIFIED="1767375770873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3074.coverage" NAME="lesson_3074 Coverage Results" MODIFIED="1766685250245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3756.coverage" NAME="lesson_3756 Coverage Results" MODIFIED="1783781328673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
     <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_955.coverage" NAME="lesson_955 Coverage Results" MODIFIED="1766687304654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_914.coverage" NAME="lesson_914 Coverage Results" MODIFIED="1782687990649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3116.coverage" NAME="lesson_3116 Coverage Results" MODIFIED="1787345600398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard" />
     <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_1287.coverage" NAME="lesson_1287 Coverage Results" MODIFIED="1769633306997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3379.coverage" NAME="lesson_3379 Coverage Results" MODIFIED="1770563866728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_2483.coverage" NAME="lesson_2483 Coverage Results" MODIFIED="1766867274884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
     <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_1009.coverage" NAME="lesson_1009 Coverage Results" MODIFIED="1773567500470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_724.coverage" NAME="lesson_724 Coverage Results" MODIFIED="1781561107419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_1827.coverage" NAME="lesson_1827 Coverage Results" MODIFIED="1782685163918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_112.coverage" NAME="lesson_112 Coverage Results" MODIFIED="1774209812772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_504.coverage" NAME="lesson_504 Coverage Results" MODIFIED="1775297297547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_1415.coverage" NAME="lesson_1415 Coverage Results" MODIFIED="1773958169775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_9.coverage" NAME="lesson_9 Coverage Results" MODIFIED="1774109834764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_1390.coverage" NAME="lesson_1390 Coverage Results" MODIFIED="1767653242362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3718.coverage" NAME="lesson_3718 Coverage Results" MODIFIED="1787769825182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_415.coverage" NAME="lesson_415 Coverage Results" MODIFIED="1777330013638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3314.coverage" NAME="lesson_3314 Coverage Results" MODIFIED="1769027785207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_859.coverage" NAME="lesson_859 Coverage Results" MODIFIED="1783268451582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3090.coverage" NAME="lesson_3090 Coverage Results" MODIFIED="1786750292431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_1458.coverage" NAME="lesson_1458 Coverage Results" MODIFIED="1767910107591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hard" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_832.coverage" NAME="lesson_832 Coverage Results" MODIFIED="1766863408677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_1464.coverage" NAME="lesson_1464 Coverage Results" MODIFIED="1785190821840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3740.coverage" NAME="lesson_3740 Coverage Results" MODIFIED="1775943244843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_283.coverage" NAME="lesson_283 Coverage Results" MODIFIED="1783191925895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_2553.coverage" NAME="lesson_2553 Coverage Results" MODIFIED="1778538063583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3345.coverage" NAME="lesson_3345 Coverage Results" MODIFIED="1786046501003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_999.coverage" NAME="lesson_999 Coverage Results" MODIFIED="1781731739374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3731.coverage" NAME="lesson_3731 Coverage Results" MODIFIED="1785872897243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_1408.coverage" NAME="lesson_1408 Coverage Results" MODIFIED="1775300502556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_1232.coverage" NAME="lesson_1232 Coverage Results" MODIFIED="1783787069944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_48.coverage" NAME="lesson_48 Coverage Results" MODIFIED="1778107580345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3653.coverage" NAME="lesson_3653 Coverage Results" MODIFIED="1775862635227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_66.coverage" NAME="lesson_66 Coverage Results" MODIFIED="1767299041579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3713.coverage" NAME="lesson_3713 Coverage Results" MODIFIED="1771174453822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3517.coverage" NAME="lesson_3517 Coverage Results" MODIFIED="1785795854901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_1291.coverage" NAME="lesson_1291 Coverage Results" MODIFIED="1784065145971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_205.coverage" NAME="lesson_205 Coverage Results" MODIFIED="1782760694270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_1189.coverage" NAME="lesson_1189 Coverage Results" MODIFIED="1782166714556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_744.coverage" NAME="lesson_744 Coverage Results" MODIFIED="1769969615891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_917.coverage" NAME="lesson_917 Coverage Results" MODIFIED="1778083945325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_1758.coverage" NAME="lesson_1758 Coverage Results" MODIFIED="1772923295485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_217.coverage" NAME="lesson_217 Coverage Results" MODIFIED="1769807409391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_1877.coverage" NAME="lesson_1877 Coverage Results" MODIFIED="1769258748126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_756.coverage" NAME="lesson_756 Coverage Results" MODIFIED="1767375770873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/medium" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3379.coverage" NAME="lesson_3379 Coverage Results" MODIFIED="1770563866728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/lessons_by_leetcode$lesson_3658.coverage" NAME="lesson_3658 Coverage Results" MODIFIED="1784151945051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
   </component>
 </project>
